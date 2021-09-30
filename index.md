@@ -1,12 +1,10 @@
-## why
+## i love ube
 
-HI can use the [editor on GitHub](https://github.com/reiraii/ohayou/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello. Welcome to my website where I simply rant about my most favorite flavor in the world. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Ube?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ube, also known as purple yam, is a popular root vegetable that originates from the Philippines, harboring a sweeter and more mellow taste compared to its sweet potato counterpart in most Western countries.
 
 ```markdown
 Syntax highlighted code block
