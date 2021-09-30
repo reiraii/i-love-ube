@@ -32,14 +32,5 @@ There are many delicious places in town that harbor the most delectable purple t
 
 [Link](url) and ![Image](https://user-images.githubusercontent.com/91563496/135330176-9d702ad0-3ef4-43c4-a345-d8f2986d042c.png)
 
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/reiraii/ohayou/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
 
 
