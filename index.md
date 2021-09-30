@@ -25,14 +25,7 @@ There are many delicious places in town that harbor the most delectable purple t
 - Kape Republik (personally recommend the ube crinkles and the Purple Rain drink they offer on their menu)
 - SomiSomi (not necessarily a Filipino based food shop, but they do offer ube flavored ice cream which is really really good. What makes SOmiSomi stand out from other ube ice creams is that it is soft served on a Japanese taiyaki cake with custard filling on the inside, which is SOOOOOOOO good)
 - Red Ribbon (this Filipino bakery is moreso for special events such as birthdays and other occasions, since I believe they have the best ube cake available. I have bought their cake for almost every birthday party of mine because it is my only annual excuse where I get to gobble down a giant purple cake of ube without judgement)
-
-
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://user-images.githubusercontent.com/91563496/135330176-9d702ad0-3ef4-43c4-a345-d8f2986d042c.png)
-
+![image](https://user-images.githubusercontent.com/91563496/135513460-f0b182a7-378f-478d-a759-c4f59fbcd911.png)
+![image](https://user-images.githubusercontent.com/91563496/135513535-58211e88-a0ff-4c2c-92b5-4a7ed088eda7.png)
 
 
