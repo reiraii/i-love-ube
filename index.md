@@ -6,6 +6,7 @@ Hello. Welcome to my website where I simply rant about my most favorite flavor i
 
 Ube, also known as purple yam, is a popular root vegetable that originates from the Philippines, harboring a sweeter and more mellow taste compared to its starchy potato counterpart in most Western countries. It is often used in many popular Filipino desserts such as halo halo, ube halaya, ube ice cream, etc. and is an ingredient that most ethnic Filipinos grow familiar with and love throughout their life.
 
+![image](https://user-images.githubusercontent.com/91563496/135513129-71c255dd-f36b-448a-bcd6-fb491fcd61d5.png)
 
 
 ## Why I Love Ube
